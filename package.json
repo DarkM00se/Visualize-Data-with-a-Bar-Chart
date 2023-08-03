@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "d3-axis": "^3.0.0"
+  }
+}
